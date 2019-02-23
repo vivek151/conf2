@@ -1,4 +1,5 @@
 Hello, This is file in master
+abcdef
+Hi THis is line from second branch
 abc
-:wq
-
+abc
